@@ -1,99 +1,46 @@
 # 🚀 Campus Share
 
-**“Why buy when our campus can share?”**
+## 🧠 Problem Statement
+
+Students often spend money on items they use only once or for a short duration. There is no dedicated platform within campuses for students to borrow, lend, or share resources easily. This leads to unnecessary expenses, underutilization of resources, and lack of collaboration among students.
 
 ---
 
-## 🧠 Problem
+## 📖 Description
 
-Students rely on multiple platforms for:
+In most colleges, students rely on informal methods like WhatsApp groups or personal contacts to borrow items such as calculators, books, or lab equipment. These methods are unstructured, unreliable, and lack trust and accountability.
 
-* Buying/selling items
-* Sharing notes
-* Viewing important notices
+There is no centralized system to:
 
-This leads to inefficiency, wasted money, and lack of a trusted system.
+* Discover available resources within campus
+* Ensure safe borrowing and returning
+* Track usage or responsibility
+* Encourage sharing culture
 
----
-
-## 💡 Solution
-
-Campus Share is a **secure, AI-powered campus ecosystem** that allows students to:
-
-* Borrow and lend items within campus 🛒
-* Upload and improve academic notes 📚
-* Stay updated with important notices 📢
+This results in wasted resources, higher financial burden, and inefficiency in accessing essential items.
 
 ---
 
-## 🔐 Key Features
+## 💡 Proposed Solution
 
-### 🛒 Marketplace
+Campus Share is a campus-only platform designed to enable students to borrow and lend items within their college environment.
 
-* Borrow/Lend items within campus
-* Smart search and recommendations
-* Security deposit for high-value items
+The platform introduces:
 
----
+* A structured marketplace for sharing items
+* Verified users using college identity
+* A trust-based system to ensure accountability
+* A mechanism to track borrowing and returning
 
-### 📚 Notes Sharing
-
-* Upload and download PDFs
-* Comment to report errors
-* Uploader can edit and update notes
-* “Needs Revision” system
+This creates a reliable and efficient ecosystem where students can save money, reduce waste, and collaborate effectively.
 
 ---
 
-### 📢 Notices Dashboard
+## 🛠️ Tech Stack
 
-* Exams, events, placements, urgent updates
-* Pinned notices
-* Expiry system
-
----
-
-### 🤖 AI Features
-
-* Chat assistant for search
-* Smart listing suggestions
-* Personalized recommendations
+* Frontend: React
+* Backend: Node.js (planned)
+* Database: Structured data storage (planned)
 
 ---
 
-### 🔐 Security & Trust
-
-* Login using email + USN (unique)
-* Verified users only
-* Trust score system
-* Fraud detection logic
-
----
-
-## 🛠 Tech Stack
-
-* React (Vite)
-* Firebase
-* Tailwind CSS
-* Framer Motion
-
----
-
-
-
-## 👥 Team
-
-* Ruchitha H M
-* Jyothirmai Gowda
-* Manjushree 
-* Varshitha 
-
----
-
-## 🎯 Vision
-
-To build a trusted campus ecosystem that:
-
-* Saves money 💰
-* Reduces waste ♻️
-* Strengthens student collaboration 🤝
